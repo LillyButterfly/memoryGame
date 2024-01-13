@@ -1,0 +1,11 @@
+:root{
+  --bg-body: url(../img/fundo-mancha-azul-e-rosa.jpg);
+  --font-family: 'Passion One', sans-serif;
+  --primary-color: #ffffff;
+  --bg-container: rgba(194, 25, 124, 0.5);
+  --button-color: #60a6e3;
+  --border-color: #60a6e3;
+  --bg-card-color: #7745b1;
+  --open-box-color: #60a6e3;
+
+}
