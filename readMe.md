@@ -9,6 +9,10 @@ Projeto desenvolvido para o bootcamp da <b>DIO</b> de jogos.
 
 <br>
 
+<img src="https://github.com/LillyButterfly/memoryGame/assets/88951197/96a8a552-857e-4e69-85d4-612de4175b96" min-width="800px" max-width="800px" width="700px" align="center" alt="Imagem da tela do jogo">
+
+<br>
+
 ## Como Jogar
 Abra o arquivo index.html em seu navegador.
 Clique em qualquer emoji para revelá-lo.
