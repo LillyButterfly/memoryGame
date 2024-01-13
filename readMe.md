@@ -9,7 +9,11 @@ Projeto desenvolvido para o bootcamp da <b>DIO</b> de jogos.
 
 <br>
 
-<img src="https://github.com/LillyButterfly/memoryGame/assets/88951197/96a8a552-857e-4e69-85d4-612de4175b96" min-width="800px" max-width="800px" width="700px" align="center" alt="Imagem da tela do jogo">
+<img src="https://github.com/LillyButterfly/memoryGame/assets/88951197/96a8a552-857e-4e69-85d4-612de4175b96" min-width="400px" max-width="600px" width="500px" align="center" alt="Imagem da tela do jogo">
+
+<br> <br>
+<img src="https://github.com/LillyButterfly/memoryGame/assets/88951197/b14258a2-b450-4cd3-8d70-a7de5aa13c8a" min-width="400px" max-width="600px" width="500px" align="center" alt="Imagem da tela do jogo">
+
 
 <br>
 
